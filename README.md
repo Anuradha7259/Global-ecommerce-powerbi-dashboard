@@ -1,4 +1,5 @@
 # Global E-Commerce Sales & Operations Performance Dashboard
+![Dashboard Preview](dashboard_preview.png)
 
 An end-to-end Power BI business intelligence project transforming raw transactional data from Olist into a dynamic, single-page executive summary dashboard tracking financial health and fulfillment efficiency.
 
